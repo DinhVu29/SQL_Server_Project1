@@ -1,13 +1,15 @@
-![](https://support.cloud365.vn/images/img-sql-cloud-server/sql_cloud.png)
+# DATA ANALYSIS: USING SQL SERVER
 
-#  _DATA ANALYST USING SQL SERVER_ 
+![image](https://user-images.githubusercontent.com/131565885/235278658-88b9a873-6bdb-4db8-9796-ab472db0a115.png)
 
-## 1. DATASET OVERVIEW
-Its contain 5 data tables as follow:
 
-![](https://user-images.githubusercontent.com/131565330/233814491-fefc91cd-b84f-45e9-96fe-7184b5eed8b4.png) 
+# 1. Data Overview
+**The table structure of 5 different Data marts in a Data warehouse is as follows :**
+![212323928-120f0473-7d88-4bef-85ca-afbab466228d](https://user-images.githubusercontent.com/131565330/233814482-85df9454-802d-4f3b-8adf-307d42963737.png)
+![212324165-3173bba9-35f2-4caf-85e2-f6aa6c711e37](https://user-images.githubusercontent.com/131565330/233814486-3be93411-fc56-488a-ba33-171b288eba25.png)
+![212324274-254a80d4-37a7-4602-bfa8-88298acfa453](https://user-images.githubusercontent.com/131565330/233814491-fefc91cd-b84f-45e9-96fe-7184b5eed8b4.png)
 
-## 2. CREATE TABLES
+# 2. CREATE TABLES
 
 Use database 
 
